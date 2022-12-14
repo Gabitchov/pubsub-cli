@@ -1,4 +1,4 @@
-module github.com/gpascual4qima/pubsub-cli
+module github.com/gabitchov/pubsub-cli
 
 go 1.19
 

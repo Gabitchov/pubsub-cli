@@ -6,7 +6,7 @@ package cmd
 import (
 	"os"
 
-	"github.com/gpascual4qima/pubsub-cli/cmd/topic"
+	"github.com/gabitchov/pubsub-cli/cmd/topic"
 	"github.com/spf13/cobra"
 )
 

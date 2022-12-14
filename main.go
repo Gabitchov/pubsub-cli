@@ -1,10 +1,9 @@
 /*
-Copyright © 2022 NAME HERE <EMAIL ADDRESS>
-
+Copyright © 2022 Gabriel PASCUAL <gabriel.pascual@gmail.com>
 */
 package main
 
-import "github.com/gpascual4qima/pubsub-cli/cmd"
+import "github.com/gabitchov/pubsub-cli/cmd"
 
 func main() {
 	cmd.Execute()
